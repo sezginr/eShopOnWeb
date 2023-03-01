@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshopeonweb-sraz700
   LOCATION: uksouth
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: 91a645f6-149a-4fb0-b491-4de6af37b40d
+  SUBSCRIPTION-ID: 3d0aa10c-da98-41c2-997b-561b91be87c0
   WEBAPP-NAME: az400-webapp-sraz700
 
 
